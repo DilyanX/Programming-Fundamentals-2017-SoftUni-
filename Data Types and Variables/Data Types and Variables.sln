@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1.Centuries to Minutes", "Problem 1.Integer and Real Numbers\Problem 1.Centuries to Minutes.csproj", "{619049B0-289E-4996-92A4-F7255B971F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2.CircleArea(Precision 12)", "Problem 2.CircleArea(Precision 12)\Problem 2.CircleArea(Precision 12).csproj", "{798B5789-378D-48FB-A3EE-94E7DA581978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3.Exact Sum of Real Numbers", "Problem 3.Exact Sum of Real Numbers\Problem 3.Exact Sum of Real Numbers.csproj", "{FBE8A767-E108-4B4F-94C7-E5A1B3F66129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619049B0-289E-4996-92A4-F7255B971F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619049B0-289E-4996-92A4-F7255B971F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619049B0-289E-4996-92A4-F7255B971F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619049B0-289E-4996-92A4-F7255B971F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798B5789-378D-48FB-A3EE-94E7DA581978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798B5789-378D-48FB-A3EE-94E7DA581978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798B5789-378D-48FB-A3EE-94E7DA581978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798B5789-378D-48FB-A3EE-94E7DA581978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE8A767-E108-4B4F-94C7-E5A1B3F66129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE8A767-E108-4B4F-94C7-E5A1B3F66129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE8A767-E108-4B4F-94C7-E5A1B3F66129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE8A767-E108-4B4F-94C7-E5A1B3F66129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
