@@ -20,4 +20,9 @@ Delating developer branch ....!
 
 Making Changes and working with Git Bash ...!
 
+
 Making Second Conflict using Git Bash ....!....
+
+Editing and making Second Conflict ....!
+
+Fixing Second Conflict ....!
