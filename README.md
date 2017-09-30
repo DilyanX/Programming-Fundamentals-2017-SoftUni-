@@ -17,3 +17,5 @@ Making Changes under developer branch ....!
 Resolving Second Conflict ....!
 
 Delating developer branch ....!
+
+Making Changes and working with Git Bash ...!
