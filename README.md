@@ -26,3 +26,6 @@ Making Second Conflict using Git Bash ....!....
 Editing and making Second Conflict ....!
 
 Fixing Second Conflict ....!
+
+
+Maling Again changes this time in master branch ....!
