@@ -19,3 +19,5 @@ Resolving Second Conflict ....!
 Delating developer branch ....!
 
 Making Changes and working with Git Bash ...!
+
+Editing and making Second Conflict ....!
