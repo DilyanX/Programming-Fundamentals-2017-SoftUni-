@@ -29,3 +29,7 @@ Fixing Second Conflict ....!
 
 
 Maling Again changes this time in master branch ....!
+
+Making Changes as Developer2 ....!
+
+Fixing Third Conflict ....!
