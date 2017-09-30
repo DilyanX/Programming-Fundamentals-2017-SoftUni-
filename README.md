@@ -26,3 +26,5 @@ Making Second Conflict using Git Bash ....!....
 Editing and making Second Conflict ....!
 
 Fixing Second Conflict ....!
+
+Making Changes as Developer2 ....!
