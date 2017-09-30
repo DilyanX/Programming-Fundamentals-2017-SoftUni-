@@ -1,0 +1,6 @@
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.pdb
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem 1. Choose a Drink.csprojResolveAssemblyReference.cache
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.exe
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.pdb

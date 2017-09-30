@@ -1,0 +1,6 @@
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\bin\Debug\_04.Debit_Card_Number.exe.config
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\bin\Debug\_04.Debit_Card_Number.exe
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\bin\Debug\_04.Debit_Card_Number.pdb
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\obj\Debug\04. Debit Card Number.csprojResolveAssemblyReference.cache
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\obj\Debug\_04.Debit_Card_Number.exe
+D:\C#\Intro and Basic Syntax\04. Debit Card Number\obj\Debug\_04.Debit_Card_Number.pdb

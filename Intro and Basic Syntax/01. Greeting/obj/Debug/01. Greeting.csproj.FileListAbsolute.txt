@@ -1,0 +1,6 @@
+D:\C#\Intro and Basic Syntax\01. Greeting\bin\Debug\_01.Greeting.exe.config
+D:\C#\Intro and Basic Syntax\01. Greeting\bin\Debug\_01.Greeting.exe
+D:\C#\Intro and Basic Syntax\01. Greeting\bin\Debug\_01.Greeting.pdb
+D:\C#\Intro and Basic Syntax\01. Greeting\obj\Debug\01. Greeting.csprojResolveAssemblyReference.cache
+D:\C#\Intro and Basic Syntax\01. Greeting\obj\Debug\_01.Greeting.exe
+D:\C#\Intro and Basic Syntax\01. Greeting\obj\Debug\_01.Greeting.pdb

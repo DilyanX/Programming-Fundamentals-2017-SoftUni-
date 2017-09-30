@@ -1,0 +1,6 @@
+D:\C#\Intro and Basic Syntax\08. Character Stats\bin\Debug\_08.Character_Stats.exe.config
+D:\C#\Intro and Basic Syntax\08. Character Stats\bin\Debug\_08.Character_Stats.exe
+D:\C#\Intro and Basic Syntax\08. Character Stats\bin\Debug\_08.Character_Stats.pdb
+D:\C#\Intro and Basic Syntax\08. Character Stats\obj\Debug\08. Character Stats.csprojResolveAssemblyReference.cache
+D:\C#\Intro and Basic Syntax\08. Character Stats\obj\Debug\_08.Character_Stats.exe
+D:\C#\Intro and Basic Syntax\08. Character Stats\obj\Debug\_08.Character_Stats.pdb

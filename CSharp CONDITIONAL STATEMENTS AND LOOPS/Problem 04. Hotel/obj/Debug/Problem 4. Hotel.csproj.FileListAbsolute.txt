@@ -1,0 +1,6 @@
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\bin\Debug\Problem_04.Hotel.exe.config
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\obj\Debug\Problem 4. Hotel.csprojResolveAssemblyReference.cache
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\bin\Debug\Problem_04.Hotel.exe
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\bin\Debug\Problem_04.Hotel.pdb
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\obj\Debug\Problem_04.Hotel.exe
+D:\C#\CSharp CONDITIONAL STATEMENTS AND LOOPS\Problem 04. Hotel\obj\Debug\Problem_04.Hotel.pdb

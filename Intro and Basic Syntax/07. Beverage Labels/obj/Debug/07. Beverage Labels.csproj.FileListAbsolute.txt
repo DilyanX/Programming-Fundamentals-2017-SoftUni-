@@ -1,0 +1,5 @@
+D:\C#\Intro and Basic Syntax\07. Beverage Labels\bin\Debug\_07.Beverage_Labels.exe.config
+D:\C#\Intro and Basic Syntax\07. Beverage Labels\bin\Debug\_07.Beverage_Labels.exe
+D:\C#\Intro and Basic Syntax\07. Beverage Labels\bin\Debug\_07.Beverage_Labels.pdb
+D:\C#\Intro and Basic Syntax\07. Beverage Labels\obj\Debug\_07.Beverage_Labels.exe
+D:\C#\Intro and Basic Syntax\07. Beverage Labels\obj\Debug\_07.Beverage_Labels.pdb

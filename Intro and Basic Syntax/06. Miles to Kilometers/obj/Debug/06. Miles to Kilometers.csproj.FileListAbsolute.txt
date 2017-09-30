@@ -1,0 +1,5 @@
+D:\C#\Intro and Basic Syntax\06. Miles to Kilometers\bin\Debug\_06.Miles_to_Kilometers.exe.config
+D:\C#\Intro and Basic Syntax\06. Miles to Kilometers\bin\Debug\_06.Miles_to_Kilometers.exe
+D:\C#\Intro and Basic Syntax\06. Miles to Kilometers\bin\Debug\_06.Miles_to_Kilometers.pdb
+D:\C#\Intro and Basic Syntax\06. Miles to Kilometers\obj\Debug\_06.Miles_to_Kilometers.exe
+D:\C#\Intro and Basic Syntax\06. Miles to Kilometers\obj\Debug\_06.Miles_to_Kilometers.pdb

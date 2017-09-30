@@ -1,0 +1,5 @@
+D:\C#\Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe.config
+D:\C#\Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe
+D:\C#\Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.pdb
+D:\C#\Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.exe
+D:\C#\Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.pdb

@@ -1,0 +1,5 @@
+D:\C#\Intro and Basic Syntax\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe.config
+D:\C#\Intro and Basic Syntax\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe
+D:\C#\Intro and Basic Syntax\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.pdb
+D:\C#\Intro and Basic Syntax\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.exe
+D:\C#\Intro and Basic Syntax\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.pdb
