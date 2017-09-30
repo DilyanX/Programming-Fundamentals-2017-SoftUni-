@@ -9,4 +9,9 @@ Making First Conflict....!
 Fixing First Conflict....!
 
 
+
 Changes under master branch ...!
+
+Making Changes under developer branch ....!
+
+Resolving Second Conflict ....!
