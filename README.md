@@ -15,3 +15,5 @@ Changes under master branch ...!
 Making Changes under developer branch ....!
 
 Resolving Second Conflict ....!
+
+Delating developer branch ....!
