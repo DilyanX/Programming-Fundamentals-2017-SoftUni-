@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{917C7519-5F2E-4293-AA34-C5BB712F806D}</ProjectGuid>
+    <ProjectGuid>{FEED4D31-2DE8-412D-9475-B4854F93A945}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem_4.Elevator</RootNamespace>
-    <AssemblyName>Problem 4.Elevator</AssemblyName>
+    <RootNamespace>Problem_6.Triples_of_Latin_Letters</RootNamespace>
+    <AssemblyName>Problem 6.Triples of Latin Letters</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
