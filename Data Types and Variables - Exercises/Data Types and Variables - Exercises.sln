@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 18. Different Integ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 19. Thea The Photographer", "Problem 19. Thea The Photographer\Problem 19. Thea The Photographer.csproj", "{31460C1A-08E7-4B4F-870B-5038C8C472CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Some Practice", "Some Practice\Some Practice.csproj", "{238D489C-4938-4222-A095-61F002F8D397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{31460C1A-08E7-4B4F-870B-5038C8C472CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31460C1A-08E7-4B4F-870B-5038C8C472CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31460C1A-08E7-4B4F-870B-5038C8C472CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238D489C-4938-4222-A095-61F002F8D397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238D489C-4938-4222-A095-61F002F8D397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238D489C-4938-4222-A095-61F002F8D397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238D489C-4938-4222-A095-61F002F8D397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
