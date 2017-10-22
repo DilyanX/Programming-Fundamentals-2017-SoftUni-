@@ -10,42 +10,41 @@ namespace P05.Compare_Char_Arrays
     {
         static void Main(string[] args)
         {
+    
             char[] arr1 = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
             char[] arr2 = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
-
-
-            if (arr1.Length > arr2.Length)
+            char[] arrA = arr1;
+            char[] arrB = arr2;
+            int index = 0;
+            while (true)
             {
-                Console.WriteLine("{0}\n{1}", string.Join("", arr1), string.Join("", arr2));
-            }
-            else if (arr1.Length < arr2.Length)
-            {
-                Console.WriteLine("{0}\n{1}", string.Join("", arr2), string.Join("", arr1));
-            }
-            else if (arr1.Length == arr2.Length)
-            {
-                for (int i = 0; i < Math.Min(arr1.Length, arr2.Length); i++)
+                if (arr1[index] < arr2[index])
                 {
-                    if (arr1[i] > arr2[i])
-                    {
-                        Console.WriteLine("{0}\n{1}", string.Join("", arr2), string.Join("", arr1));
-                        break;
-                    }
-                    if (arr2[i] > arr1[i])
-                    {
-                        Console.WriteLine("{0}\n{1}", string.Join("", arr1), string.Join("", arr2));
-                        break;
-                    }
-                    if (arr2[i] == arr1[i] && i == Math.Min(arr1.Length, arr2.Length) - 1)
-                    {
-                        Console.WriteLine("{0}\n{1}", string.Join("", arr1), string.Join("", arr2));
-                        break;
-                    }
-
-
+                    break;
+                } 
+                if (arr1[index] > arr2[index])
+                {
+                    arrA = arr2;
+                    arrB = arr1;
+                    break;
                 }
-
+                else
+                {
+                    index++;
+                    if (index == arr1.Length)
+                    {
+                        break;
+                    }
+                    else if (index == arr2.Length)
+                    {
+                        arrA = arr2;
+                        arrB = arr1;
+                        break;
+                    }
+                }
             }
+            Console.WriteLine(string.Join("", arrA));
+            Console.WriteLine(string.Join("", arrB));
         }
     }
 }

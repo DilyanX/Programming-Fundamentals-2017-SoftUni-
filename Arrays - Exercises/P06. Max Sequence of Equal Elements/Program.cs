@@ -10,12 +10,31 @@ namespace P06.Max_Sequence_of_Equal_Elements
     {
         static void Main()
         {
-            var input = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int[] maxSequence = new int[input.Length];
-            var n = 0;
-            for (int i = 0; i < input.Length; i++)
+            int[] input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int counter = 1;
+            int maxCounter = 1;
+            int bestSequence = 0;
+
+            for (int i = 0; i < input.Length - 1; i++)
             {
-                
+                if (input[i] == input[i + 1])
+                {
+                    counter++;
+                }
+                else
+                {
+                    counter = 1;
+                }
+             
+                if (counter > maxCounter)
+                {
+                    maxCounter = counter;
+                    bestSequence = input[i];
+                }
+            }
+            for (int i = 0; i < maxCounter; i++) // обхождаме елементите които са се събрали в макскаунтър
+            {
+                Console.Write("{0} ", bestSequence);
             }
         }
     }
